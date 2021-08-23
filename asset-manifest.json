@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AUjjwal01/nameGene/static/css/main.a00c3a65.chunk.css",
+    "main.js": "/AUjjwal01/nameGene/static/js/main.88df9a33.chunk.js",
+    "main.js.map": "/AUjjwal01/nameGene/static/js/main.88df9a33.chunk.js.map",
+    "runtime-main.js": "/AUjjwal01/nameGene/static/js/runtime-main.8f011340.js",
+    "runtime-main.js.map": "/AUjjwal01/nameGene/static/js/runtime-main.8f011340.js.map",
+    "static/js/2.b6978241.chunk.js": "/AUjjwal01/nameGene/static/js/2.b6978241.chunk.js",
+    "static/js/2.b6978241.chunk.js.map": "/AUjjwal01/nameGene/static/js/2.b6978241.chunk.js.map",
+    "static/js/3.775035a5.chunk.js": "/AUjjwal01/nameGene/static/js/3.775035a5.chunk.js",
+    "static/js/3.775035a5.chunk.js.map": "/AUjjwal01/nameGene/static/js/3.775035a5.chunk.js.map",
+    "index.html": "/AUjjwal01/nameGene/index.html",
+    "static/css/main.a00c3a65.chunk.css.map": "/AUjjwal01/nameGene/static/css/main.a00c3a65.chunk.css.map",
+    "static/js/2.b6978241.chunk.js.LICENSE.txt": "/AUjjwal01/nameGene/static/js/2.b6978241.chunk.js.LICENSE.txt",
+    "static/media/svgimg.03c3de26.svg": "/AUjjwal01/nameGene/static/media/svgimg.03c3de26.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f011340.js",
+    "static/js/2.b6978241.chunk.js",
+    "static/css/main.a00c3a65.chunk.css",
+    "static/js/main.88df9a33.chunk.js"
+  ]
+}
